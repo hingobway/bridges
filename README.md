@@ -1,5 +1,5 @@
-# bridges
-Calculus Project, Spring 2018.
+# Bridges
+Work and data for my Bridges Calculus project, Spring 2018.
 
 ## Pages
 - [Proposal and General Information](main)
