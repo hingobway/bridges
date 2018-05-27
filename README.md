@@ -2,5 +2,5 @@
 Calculus Project, Spring 2018.
 
 ## Pages
-- [Starting Page](main)
+- [Proposal and General Information](main)
     > This includes initial found equations and information about the bridges, along with some forces math.
