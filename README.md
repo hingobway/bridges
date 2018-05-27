@@ -1,4 +1,4 @@
-# Bridges
+# bridges
 Work and data for my Bridges Calculus project, Spring 2018.
 
 ## Pages
